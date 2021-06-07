@@ -1,0 +1,107 @@
+dtw_id,name,address,region,province,location,category,g_rev,gmap_id
+1,Pantai Kuta,"Kuta, Badung, Bali",Kuta,Bali,Pantai,Alam,,ChIJkbJrRYFH0i0RggJb7CncdHE
+2,Peninsula Island,"Pulau Peninsula Nusa Dua, Nusa Dua, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80363",Nusa Dua,Bali,Pantai,Alam,4.5,ChIJM51wq9dC0i0RktOawQYW3jk
+3,Pura Luhur Uluwatu,"Pecatu, Kec. Kuta Sel., Kabupaten Badung, Bali",Pecatu,Bali,Pantai,Budaya,4.6,ChIJkYHLIPxP0i0RlQTbpxuNuQw
+4,Garuda Wisnu Kencana,"Jl. Raya Uluwatu, Ungasan, Kuta Selatan Badung 80364, Bali-Indonesia",Ungasan,Bali,Kota,Monumen,4.5,ChIJx97hVM9E0i0RUVpPBj5miBk
+5,Pantai Padang - Padang,"Pecatu, Kuta Selatan, Kabupaten Badung, Bali.",Pecatu,Bali,Pantai,Alam,4.4,ChIJV-JMXVBF0i0RFUBMWOw7eGQ
+6,Pantai Pandawa,"Jalan Pantai Pandawa, Desa Kutuh, Kecamatan Kuta Selatan, Kabupaten Badung, Provinsi Bali 80361.",Kutuh,Bali,Pantai,Alam,4.6,ChIJu17hAxFb0i0RNl4IGQeu1K4
+7,Desa Trunyan,"Kintamani, Kabupaten Bangli, provinsi Bali",Kintamani,Bali,Desa,Budaya,4.5,ChIJr1fiME720S0RUpxYzzZP3Fw
+8,Gunung Batur,"Kintamani, Kabupaten Bangli, provinsi Bali",Kintamani,Bali,Gunung,Alam,4.5,ChIJP-7oyAP00S0RtHCGoa9FgNM
+9,Desa Adat Penglipuran,"Jl. Penglipuran, Kubu, Kec. Bangli, Kabupaten Bangli, Bali 80661",Bangli,Bali,Desa,Budaya,4.7,ChIJqfTkrG4Z0i0RGTQM35oWGTM
+10,Taman Nasional Bali Barat,"Jl. Raya Cekik, Buleleng, Bali",Buleleng,Bali,Taman,Alam,4.5,ChIJZ6RQfWVD0S0RstBUppm878Y
+11,Tirta Empul ,"Jl. Tirta, Manukaya, Tampaksiring, Kabupaten Gianyar, Bali 80552",Gianyar,Bali,Desa,Budaya,4.6,ChIJtTFh4PQY0i0RwewUdwFaolM
+12,Pasar Seni Sukawati,"Jalan Raya Sukawati, Sukawati, Kec. Sukawati, Kabupaten Gianyar, Bali 80582",Sukawati,Bali,Kota,Rekreasi,4.3,ChIJDUFsYSg-0i0RPD5Un_6vDpY
+13,Kebun Raya Bedugul,"Bedugul, Tabanan",Bedugul,Bali,Taman,Rekreasi,4.6,ChIJ42vvtRGJ0S0RyyuSodjV-_M
+14,Pura Batu Bolong,"Jalan Raya Senggigi, Batu Layar, Kabupaten Lombok Barat, Nusa Tenggara Barat 83355",Lombok,Nusa Tenggara Barat,Pantai,Alam,4.5,ChIJhQiqEeTBzS0RAwsYNZw8RQc
+15,Taman Narmada,"Jalan Raya Narmada, Lembuak, Narmada, Lembuak, Narmada, Kabupaten Lombok Barat, Nusa Tenggara Barat 83371",Lombok,Nusa Tenggara Barat,Taman,Rekreasi,4.4,ChIJA34khmy4zS0RFb2zry_Re1Y
+16,Desa Penujak,"Desa Penujak, Kecamatan Praya Barat, Kabupaten Lombok Tengah, Nusa Tenggara Barat",Lombok,Nusa Tenggara Barat,Desa,Budaya,,ChIJWamTNpWvzS0RkNr3yvsLAwU
+17,Desa Beleka,"Desa Beleka, Kecamatan Praya, Kabupaten Lombok Tengah, Nusa Tenggara Barat",Lombok,Nusa Tenggara Barat,Desa,Budaya,,ChIJQ0jksEetzS0RENv3yvsLAwU
+18,Pantai Senggigi,"Jalan Raya Senggigi KM 6-10, Batu Layar, Kabupaten Lombok Barat, Nusa Tenggara Barat 83355",Lombok,Nusa Tenggara Barat,Pantai,Alam,4.5,ChIJk1LgUgbCzS0RT0IpDVaqKcQ
+19,Air Terjun Mata Jitu,"Labuan Aji, Labuhan Badas, Sumbawa Regency, West Nusa Tenggara 84316",Sumbawa,Nusa Tenggara Barat,Air Terjun,Alam,4.9,ChIJhdZxXLLhyy0REiviH0OU848
+20,Gunung Rinjani,"Sembalun Lawang, Kabupaten Lombok Timur, Nusa Tenggara Barat, Indonesia",Lombok,Nusa Tenggara Barat,Gunung,Alam,4.5,ChIJz8wWAoAtzC0RHgrTEb_NAzw
+21,Gili Trawangan,"Kepulauan Gili, Kabupaten Lombok Utara, Nusa Tenggara Barat, Indonesia",Lombok Utara,Nusa Tenggara Barat,Pantai,Alam,4.6,ChIJn1fxT6vgzS0RstQyRxd86vw
+22,Taman Nasional Komodo,"Taman Nasional Komodo, Nusa Tenggara Timur, Indonesia",Pulau Komodo,Nusa Tenggara Timur,Taman,Alam,4.4,ChIJuZGsKfP4tC0RYtHgcIgHobE
+23,Pulau Kera,"Desa Uiasa, Kecamatan Semau, Kabupaten Kupang, Propinsi Nusa Tenggara Timur.",Kupang,Nusa Tenggara Timur,Pantai,Alam,4.8,ChIJT8WRjF0nVCwRL5F_iPJc2-U
+24,Pantai Lasiana,"Lasiana, Kota Kupang, Nusa Tenggara Timur, Indonesia",Kupang,Nusa Tenggara Timur,Pantai,Alam,4.2,ChIJaYd2jqyDViwRVEgG40jMVEE
+25,Taman Laut Selat Pantar,"Selat Pantar, Munaseli, Kabupaten Alor, Nusa Tenggara Timur, Indonesia",Alor,Nusa Tenggara Timur,Pantai,Alam,,ChIJ0VYNknZjqi0RPQ-Qavr-lgM
+26,Danau Kelimutu,"Woloara, Kabupaten Ende, Nusa Tenggara Timur, Indonesia",Ende,Nusa Tenggara Timur,Danau,Alam,4.5,ChIJ_QA3rctCrS0R7QfWMyD0NNE
+27,DANAU SANONGGOANG,"Wae Sano, Kabupaten Manggarai Barat, Nusa Tenggara Timur, Indonesia",Manggarai,Nusa Tenggara Timur,Danau,Alam,4.4,ChIJfcfC-YyFtC0RoHchX5TdhrA
+28,Air Terjun Oenesu,"Oenesu, Kupang, Nusa Tenggara Timur, Indonesia",Kupang,Nusa Tenggara Timur,Air Terjun,Alam,3.8,ChIJC5SSs1GRViwRFFc7CPryaVg
+29,Air Terjun Cunca Wulang,"Cunca Wulang Waterfall, Pota Wangka, Kabupaten Manggarai Barat, Nusa Tenggara Timur, Indonesia",Manggarai,Nusa Tenggara Timur,Air Terjun,Alam,4.2,ChIJzQ_Xs8N8tC0RlO34z_zRpR8
+30,Labuan Bajo,"Labuan Bajo, Kabupaten Manggarai Barat, Nusa Tenggara Timur, Indonesia",Manggarai,Nusa Tenggara Timur,Pantai,Alam,,ChIJQdZ-1KZotC0RjW5qPDMk9Yc
+31,Wae Rebo,"Satar Lenda, Satar Mese Bar., Kabupaten Manggarai, Nusa Tenggara Tim.",Manggarai,Nusa Tenggara Timur,Desa,Budaya,4.7,ChIJnQ7osllksy0RiIrLfbjGdM4
+32,Bukit Wairinding,"Bukit Wairinding, Pambotanjara, Kabupaten Sumba Timur, Nusa Tenggara Timur, Indonesia",Sumba,Nusa Tenggara Timur,Bukit,Alam,4.7,ChIJRWQaLi5jSywRptdoZtBu-IU
+33,Pantai Nihiwatu,"Sumba Barat, Daerah Nusa Tenggara Timur",Sumba,Nusa Tenggara Timur,Pantai,Alam,4.6,ChIJc3r5Adz8SiwRY6wi_ONHx1Q
+34,Gunung Bromo,"Area Gunung Bromo, Podokoyo, Pasuruan, Jawa Timur, Indonesia",Pasuruan,Jawa Timur,Gunung,Alam,4.6,ChIJQUp5q6o31i0R3aXS7DYNpK0
+35,Kawah Ijen,"Jalan Kawah Ijen, Dusun Jambu, Tamansari, Kabupaten Banyuwangi, Jawa Timur, Indonesia",Banyuwangi,Jawa Timur,Gunung,Alam,4.7,ChIJtzsm3NA_0i0RvujbpVjp82E
+36,Taman Nasional Baluran,"Taman Nasional Baluran, Area Hutan/Kebun, Sumberwaru, Kabupaten Situbondo, Jawa Timur, Indonesia",Situbondo,Jawa Timur,Taman,Alam,4.6,ChIJhcDXVJQk0S0RS-3s0358Bmc
+37,Air Terjun Tumpak Sewu Lumajang,"kampung siji, Jl. Raya Sidomulyo, Besukcukit, Sidomulyo, Pronojiwo, Kabupaten Lumajang, Jawa Timur 67374",Lumajang,Jawa Timur,Air Terjun,Alam,4.7,ChIJQdppWAgU1i0Rgil3Bl_MlEo
+38,Arosbaya Pelelangan,"Bukit Pelalangan Arosbaya, Plalangan Madura, Buduran, Arosbaya, Makam Air Mata, Buduran, Arosbaya, Kabupaten Bangkalan, Jawa Timur 69151",Madura,Jawa Timur,Bukit,Alam,4.3,ChIJeaDuyowR2C0RCSSEIM9TNJ4
+39,Gili Ketapang,"Gili Ketapang, Probolinggo, Jawa Timur, Indonesia",Probolinggo,Jawa Timur,Pantai,Alam,,ChIJSboetxyv1y0RbSNHRddlHqE
+40,Museum Angkut Malang,"Jl. Terusan Sultan Agung No.2, Ngaglik, Kec. Batu, Kota Batu, Jawa Timur",Batu,Jawa Timur,Kota,Monumen,4.8,ChIJLXK_Jm-HeC4RSdZ_QQgNP0w
+41,Jawa Timur Park,"Jalan Kartika, Sisir, Kota Batu, Jawa Timur, Indonesia",Batu,Jawa Timur,Kota,Rekreasi,4.5,ChIJuQcd1iqHeC4RgJdHUq1IqFk
+42,Gili Labak,"Gili Labak, Kombang, Kabupaten Sumenep, Jawa Timur, Indonesia",Sumenep,Jawa Timur,Pantai,Alam,4.7,ChIJn4WCUFZR1y0R07jnrXGKB0s
+43,Air Terjun Coban Rondo,"Jalan Coban Rondo, Krajan, Pandesari, Malang, Jawa Timur, Indonesia",Malang,Jawa Timur,Air Terjun,Alam,4.5,ChIJL6yQmACHeC4RdCI-fZisRp8
+44,Candi Prambanan,"Jl. Raya Solo - Yogyakarta No.16, Kranggan, Bokoharjo, Kec. Prambanan, Kabupaten Sleman, Daerah Istimewa Yogyakart",Sleman,DI Yogyakarta,Kota,Monumen,4.5,ChIJ0VnY2-Naei4RLVqVJTug5xk
+45,Pantai Nglambor,"Pantai, Purwodadi, Kabupaten Gunung Kidul, Daerah Istimewa Yogyakarta, Indonesia",Kidul,DI Yogyakarta,Pantai,Alam,4.4,ChIJ______-zey4R-59xDA_zpRY
+46,Gunung Api Purba Nglanggeran,"Nglanggeran Kulon, Nglanggeran, Kabupaten Gunung Kidul, Daerah Istimewa Yogyakarta, Indonesia",Kidul,DI Yogyakarta,Gunung,Alam,4.6,ChIJm6tFyUZOei4RYa-6txQe1Uo
+47,Air Terjun Sri Gethuk,"Mungguran II, Bleberan, Kabupaten Gunung Kidul, Daerah Istimewa Yogyakarta, Indonesia",Kidul,DI Yogyakarta,Air Terjun,Alam,4.4,ChIJ7b3_osVSei4R8Xsm6jYVsgE
+48,Hutan Pinus Mangunan Dlingo,"Hutan Pinus Mangunan Dlingo, Sukorame, Mangunan, Bantul, Daerah Istimewa Yogyakarta, Indonesia",Bantul,DI Yogyakarta,Bukit,Alam,4.6,ChIJKbGrVWNTei4RTi72HoFntZ8
+49,HeHa Sky View,"Jalan Dlingo-Patuk, Patuk, Bukit, Kabupaten Gunung Kidul, Daerah Istimewa Yogyakarta, Indonesia",Kidul,DI Yogyakarta,Bukit,Rekreasi,4.4,ChIJbSTzgC1Rei4RVW8bz4CicfY
+50,Keraton Yogyakarta,"Jalan Rotowijayan, Panembahan, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Indonesia",Yogyakarta,DI Yogyakarta,Kota,Budaya,4.6,ChIJ78cG25ZXei4RbCcrBc9xUjk
+51,Malioboro,"Sosromenduran, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Indonesia",Yogyakarta,DI Yogyakarta,Kota,Rekreasi,,ChIJycO64uRZei4RnoVsKiP-XAE
+52,Pantai Pulang Sawal,"Pantai Pulang Sawal, Daerah Istimewa Yogyakarta, Indonesia",Kidul,DI Yogyakarta,Pantai,Alam,4.5,ChIJfwzL6yu6ey4RJJedHeKqTYU
+53,Monumen Yogya Kembali,"Jl. Ring Road Utara, Jongkang, Sariharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta",Sleman,DI Yogyakarta,Kota,Monumen,4.5,ChIJickTkPlYei4RM0P_uCXblio
+54,Gunung Bromo,"Area Gn. Bromo, Podokoyo, Tosari, Pasuruan, Jawa Timur",Pasuruan,Jawa Timur,Gunung,Alam,4.6,ChIJQUp5q6o31i0R3aXS7DYNpK0
+55,Puncak B29,"Argosari, Senduro, Nganjir, Sariwani, Sukapura, Kabupaten Lumajang, Jawa Timur 67254",Lumajang,Jawa Timur,Gunung,Alam,4.6,ChIJVVVVVeVH1i0RDnHOiEAz9Vw
+56,Gunung Semeru,"Ngampo, Pasrujambe, Lumajang Regency, East Java",Lumajang,Jawa Timur,Gunung,Alam,4.6,ChIJuxfY4Yk-1i0RVI9IPO3UFJw
+57,Jawa Timur Park 3,"Jl. Ir Sukarno No.144, Beji, Kec. Junrejo, Kota Batu, Jawa Timur 65236",Kota Batu,Jawa Timur,Kota,Rekreasi,4.5,ChIJV6nzSBiBeC4RzeN-XrMTABs
+58,Museum Angkut,"Jl. Terusan Sultan Agung No.2, Ngaglik, Kec. Batu, Kota Batu, Jawa Timur 65314",Kota Batu,Jawa Timur,Kota,Rekreasi,4.7,ChIJEyzN0y2HeC4ROB080owDlTI
+59,Secret Zoo,"Jl. Oro-Oro Ombo No.9, Temas, Kec. Batu, Kota Batu, Jawa Timur 65315",Kota Batu,Jawa Timur,Kota,Rekreasi,4.6,ChIJ_____9aAeC4Rd_3Uf_hgZfM
+60,Selecta Recreational Park,"Jl. Raya Selecta No.1, Tulungrejo, Kec. Bumiaji, Kota Batu, Jawa Timur 65336",Kota Batu,Jawa Timur,Kota,Rekreasi,4.5,ChIJh5QNLnZ-eC4RQCvB8atMgLg
+61,Batu Night Spectacular,"Jl. Hayam Wuruk No.1, Oro-Oro Ombo, Kec. Batu, Kota Batu, Jawa Timur 65316",Kota Batu,Jawa Timur,Kota,Rekreasi,4.4,ChIJ23IsPzCBeC4RIex3GhfXPpU
+62,Kampung Warna Warni ,"Jodipan, Kec. Blimbing, Kota Malang, Jawa Timur",Kota Malang,Jawa Timur,Kota,Rekreasi,4.5,ChIJZbPGVIAp1i0RSS4kTv8vN4E
+63,Kebun Teh Wonosari,"RT.04/RW.07, Bodean Putuk, Toyomarto, Singosari, Malang, East Java 65153",Malang,Jawa Timur,Pantai,Alam,4.4,ChIJvzRbqrbU1y0RdoCqmcqERhs
+64,Coban Rondo,"Jl. Coban Rondo, Krajan, Pandesari, Kec. Pujon, Malang, Jawa Timur 65391",Malang,Jawa Timur,Air Terjun,Alam,4.5,ChIJL6yQmACHeC4RdCI-fZisRp8
+65,Air Terjun Madakaripura,"Sapih, Branggah, Lumbang, Probolinggo, East Java 67183",Probolinggo,Jawa Timur,Air Terjun,Alam,4.5,ChIJEVDUNIFK1i0RIzh6_9vIFI0
+66,Pantai Tiga Warna,"Jl. Sendang Biru, Area Sawah/Kebun, Tambakrejo, Sumbermanjing, Malang, Jawa Timur 65176",Malang,Jawa Timur,Pantai,Alam,4.5,ChIJQ-1CcBQB1i0RVnk1Vd4miz0
+67,Pulau Sempu,"Hutan, Tambakrejo, Sumbermanjing, Malang, East Java",Malang,Jawa Timur,Pantai,Alam,4.5,ChIJH5C87SAB1i0Rk4kwemiJ_Y4
+68,Pantai Mbehi,"Sumber Rejo, Bandungrejo, Bantur, Malang, East Java 65179",Malang,Jawa Timur,Pantai,Alam,4.5,ChIJn8Pnjb6ueC4R0t3i1Qh3L5U
+69,Pantai Banyu Meneng,"Kandangmerak, Sumberbening, Bantur, Malang, East Java 65179",Malang,Jawa Timur,Pantai,Alam,4.5,ChIJn8Pnjb6ueC4R0t3i1Qh3L5U
+70,Museum Batik Pekalongan,"Jalan Jatayu, Panjang Wetan, Kota Pekalongan, Jawa Tengah, Indonesia",Pekalongan,Jawa Tengah,Kota,Monumen,4.6,ChIJaekXKNAlcC4RS4l7Cow0Am0
+71,Lokawisata Baturraden,"Lokawisata, Dusun I Karangmangu, Karangmangu, Kec. Baturaden, Kabupaten Banyumas, Jawa Tengah",Baturaden,Jawa Tengah,Gunung,Rekreasi,4.5,ChIJ6RqW5P30by4RROgQzA4qlc8
+72,Museum Kereta Api Ambarawa,"Jl. Panjang Kidul No.1, Panjang Kidul, Panjang, Kec. Ambarawa, Semarang, Jawa Tengah",Semarang,Jawa Tengah,Kota,Monumen,4.5,ChIJr-HPZp-BcC4R9jEme1Ofkl0
+73,Museum Manusia Purba Klaster Ngebung,"Kebayanan II, Krikilan, Kec. Kalijambe, Kabupaten Sragen, Jawa Tengah",Sragen,Jawa Tengah,Kota,Monumen,4.5,ChIJYwhttdwRei4R9h1RnvIXjdQ
+74,Keraton Surakarta Hadiningrat,"Baluwarti, Kec. Ps. Kliwon, Kota Surakarta, Jawa Tengah",Surakarta,Jawa Tengah,Kota,Budaya,4.5,ChIJs5R6J2YWei4Rexp4x1XJSuU
+75,Candi Borobudur,"Jl. Badrawati, Kw. Candi Borobudur, Borobudur, Kec. Borobudur, Magelang, Jawa Tengah",Magelang,Jawa Tengah,Kota,Monumen,4.7,ChIJl9anCfCMei4Ry8NNdDRD0w0
+76,Taman Nasional Karimunjawa,"Karimunjawa, Kabupaten Jepara, Jawa Tengah, Indonesia",Jepara,Jawa Tengah,Pantai,Alam,4.7,ChIJ8zAT6x_Ocy4RbtcJWNiOFYU
+77,Pantai Bandengan,"Rawa I, Bandengan, Kabupaten Jepara, Jawa Tengah, Indonesia",Jepara,Jawa Tengah,Pantai,Alam,4.4,ChIJzTripTEZcS4RrF5gqS5TVJY
+78,Kota Lama Semarang,"Jl. Letjen Suprapto No.31, Tj. Mas, Kec. Semarang Utara, Kota Semarang, Jawa Tengah",Semarang,Jawa Tengah,Kota,Budaya,4.7,ChIJRQi5xan0cC4Rbr7SVn_Y2gw
+79,Brown Canyon,"Rowosari, Kec. Tembalang, Kota Semarang, Jawa Tengah",Semarang,Jawa Tengah,Bukit,Alam,4.2,ChIJx-YWHX6OcC4RxNu9jx5FzTg
+80,Telaga Sunyi,"Sawah & Hutan, Limpakuwus, Kec. Sumbang, Kabupaten Banyumas, Jawa Tenga",Banyumas,Jawa Tengah,Gunung,Alam,4.5,ChIJQ-xhHFH0by4Rk1FHqLBgZJw
+81,Green Canyon ( Cukang Taneuh ) Cijulang Pangandaran,"Jl. Raya Cijulang - Green Canyon, RT.02/RW.10, Cijulang, Pangandaran, Jawa Barat",Pangandaran,Jawa Barat,Desa,Alam,4.6,ChIJqXIj7cW_ZS4REG2w_6k7HfI
+82,Kebun Raya Cibodas,"Jl. Kebun Raya Cibodas, Sindangjaya, Kec. Cipanas, Kabupaten Cianjur, Jawa Barat",Cianjur,Jawa Barat,Taman,Rekreasi,4.6,ChIJ2xvx2oizaS4Rr9ZL9x9WZyU
+83,Kawah Putih,"Sugihmukti, Bandung, Jawa Barat, Indonesia",Bandung,Jawa Barat,Gunung,Alam,4.6,ChIJD1HcgxOMaC4RPqij5LgbtPo
+84,Curug Cikaso,"Desa Ciniti, Cibitung, Sukabumi Regency, Jawa Barat",Sukabumi,Jawa Barat,Air Terjun,Alam,4.5,ChIJZ-viR-0DaC4RbS3rUaKtvFE
+85,Kampung Karuhun Sumedang,"Jl. Pagarbetis, Citengah, Kec. Sumedang Sel., Kabupaten Sumedang, Jawa Barat",Sumedang,Jawa Barat,Desa,Rekreasi,4.3,ChIJvfqDi__RaC4RqN__FAtEJtE
+86,Telaga Remis,"Kaduela, Pasawahan, Kabupaten Kuningan, Jawa Barat",Kuningan,Jawa Barat,Gunung,Alam,3.9,ChIJO5X1ssQhby4RyN19hgAFxyM
+87,Gunung Pancar,"Karang Tengah, Bogor, Jawa Barat, Indonesia",Bogor,Jawa Barat,Gunung,Alam,3.9,ChIJYVzEiIfHaS4R9ddDhXIUo6M
+88,Taman Bunga Nusantara,"Jl. Mariwati No.KM. 7, Kawungluwuk, Kec. Sukaresmi, Kabupaten Cianjur, Jawa Barat",Cianjur,Jawa Barat,Taman,Rekreasi,4.6,ChIJbSa2huWzaS4RqxlDDSYUmxw
+89,Kebun Raya Bogor,"Jl. Ir. H. Juanda No.13, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat",Bogor,Jawa Barat,Taman,Rekreasi,4.6,ChIJu3qmEsTFaS4R5X6jRWs88nU
+90,Stone Garden Citatah,"Gunung Masigit, Citatah, Kec. Cipatat, Kabupaten Bandung Barat, Jawa Barat",Bandung,Jawa Barat,Gunung,Alam,4.4,ChIJ7bjao1n8aC4Ro5xdaKfIDnI
+91,Ciputih Resort Ujung Kulon,"Ujung Kulon National Park, Kertamukti, Banten, Kabupaten Pandeglang, Banten",Pandeglang,Banten,Pantai,Alam,4.3,ChIJDVPRywKlQy4RcuFk-5cRiTA
+92,Pulau Merak Besar,"Pulau Merak Besar, Tamansari, Kota Cilegon, Banten, Indonesia",Cilegon,Banten,Pantai,Alam,4.4,ChIJnTTI8L6QQS4R3UOM60dUBKY
+93,Batu Lawang Merak,"Jalan Batu Lawang, Gerem, Kota Cilegon, Banten, Indonesia",Cilegon,Banten,Gunung,Rekreasi,4.3,ChIJ8yU2jbCRQS4RR01biVnhNuE
+94,Taman Nasional Ujung Kulon,"Taman Nasional Ujung Kulon, Banten, Indonesia",Banten,Banten,Taman,Alam,4.4,ChIJoZ6XlTMjQi4Rcsi0Q06j840
+95,Pantai Tanjung Lesung,"Tanjungjaya, Kabupaten Pandeglang, Banten, Indonesia",Pandeglang,Banten,Pantai,Alam,4.4,ChIJVVGU99TJQy4RTQZut7bMnHY
+96,Pantai Sawarna,"Sawarna, Kabupaten Lebak, Banten, Indonesia",Lebak,Banten,Pantai,Alam,4.5,ChIJa6--XSWRQi4Rsra-SMZckS4
+97,Curug Cihear,"Lebaksitu, Lebakgedong, Kabupaten Lebak, Banten",Lebak,Banten,Air Terjun,Alam,4.4,ChIJG1sbTcRwQi4RCyaJ5EoG_IQ
+98,Taman Tebing Koja,"Cikuya, Tangerang, Banten, Indonesia",Tangerang,Banten,Taman,Alam,3.9,ChIJJSKlr4kFQi4RK73yvivepog
+99,Kandank Jurank Doank,"Kompleks Alvita Blok Q No. 14, Sawah Baru, Ciputat, Sawah Lama, Kec. Ciputat, Kota Tangerang Selatan, Banten",Tangerang,Banten,Taman,Rekreasi,4.7,ChIJCUSg3wbwaS4R68TDAe5Ftdc
+100,Pulau Sangiang,"Pulau Sangiang, Indonesia",Banten,Banten,Pantai,Alam,4.4,ChIJxxwq816cQS4RnfvvuoxCR5I
+101,Monumen Nasional (Monas),"Jalan Medan Merdeka Utara, RT.5/RW.2, Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta, Indonesia",Jakarta Pusat,Jakarta,Kota,Monumen,4.6,ChIJa5LTMdL1aS4RL3717sOR2YA
+102,Taman Mini Indonesia Indah,"Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",Jakarta Timur,Jakarta,Kota,Rekreasi,4.5,ChIJYaJ20FDtaS4RDNry7LknMQc
+103,Taman Impian Jaya Ancol,"Jalan Lodan Timur, RW.10, Ancol, Kota Jakarta Utara, Daerah Khusus Ibukota Jakarta, Indonesia",Jakarta Utara,Jakarta,Kota,Rekreasi,4.5,ChIJcdfvd3T0aS4RWFPBwpxqIIU
+104,Taman Nasional Kepulauan Seribu,"Pulau Pramuka, Kelurahan Pulau Panggang, Kecamatan Kepulauan Seribu Utara, Pulau Panggang, Kepulauan Seribu Utara, Kabupaten Kepulauan Seribu, Daerah Khusus Ibukota Jakarta",Kepulauan Seribu,Jakarta,Pantai,Alam,4.6,ChIJV76SdxB0ai4R6i8m2WMA3BA
+105,Museum Nasional Indonesia,"Jalan Medan Merdeka Barat, Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta, Indonesia",Jakarta Pusat,Jakarta,Kota,Monumen,4.6,ChIJi_JxtdT1aS4R7Vhgb1ZBFaQ
+106,Kota Tua,"Kota Tua, Mangga Besar, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta, Indonesia",Jakarta Barat,Jakarta,Kota,Rekreasi,4.5,ChIJx7dLUwf2aS4RZXBT8uS36kI
