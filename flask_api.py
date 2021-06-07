@@ -8,7 +8,7 @@ from flask import Flask, jsonify, request
 
 
 # -----------------------------------------ML Proses
-model = load_model('model\model1.h5')
+model = load_model('model1.h5')
 dtw = pd.read_csv('torem_dtw.csv')
 rating = pd.read_csv('ratings.csv')
 
